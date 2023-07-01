@@ -1,0 +1,202 @@
+{
+    "data": {
+        "listing": {
+            "id": 30344,
+            "name": "Green Age Barcelona",
+            "slug": "green-age-barcelona",
+            "state": "Catalonia",
+            "best_of_weedmaps": false,
+            "best_of_weedmaps_years": [],
+            "best_of_weedmaps_nominee_years": [],
+            "best_of_weedmaps_nominee": false,
+            "social_equity": false,
+            "city": "Barcelona",
+            "type": "dispensary",
+            "wmid": 418827025,
+            "latitude": 41.396838,
+            "longitude": 2.162195,
+            "web_url": "https://weedmaps.com/dispensaries/green-age-barcelona",
+            "package_level": "basic",
+            "feature_order": 9999,
+            "ranking": 3.653897397425006,
+            "rating": 4.5,
+            "reviews_count": 16,
+            "avatar_image": {
+                "small_url": "https://images.weedmaps.com/static/placeholders/weedmaps-logo.jpg",
+                "original_url": "https://images.weedmaps.com/static/placeholders/weedmaps-logo.jpg"
+            },
+            "has_sale_items": false,
+            "license_type": "recreational",
+            "address": "Carrer Rosselló, 254",
+            "distance": null,
+            "zip_code": "08037",
+            "timezone": "Europe/Madrid",
+            "timezone_display": "CEST",
+            "intro_body": "\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eDe acuerdo con las recientes medidas del gobierno,todas las asociaciones cannabicas en España están obligadas a permanecer cerradas durante el estado de alarma relacionado con Covid-19.Ignora los horarios habituales mostrados aqui\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003e\u003cem\u003eDue to recent government orders, all cannabis associations in Spain are required to remain closed during the state of emergency declared because of Covid-19. Please ignore the habitual hours of operation seen here \u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e \u003cp\u003e \u003c/p\u003e",
+            "support_cause_link": null,
+            "gofundme_link": null,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/41.396838/2.162195/402/147/map.png",
+            "open_now": true,
+            "closes_in": 87,
+            "todays_hours_str": "11:00am - 12:00am",
+            "has_age_gate": true,
+            "min_age": 21,
+            "region_id": 1546,
+            "promo_code": null,
+            "menu_items_count": 0,
+            "verified_menu_items_count": 0,
+            "endorsement_badge_count": 0,
+            "is_published": true,
+            "online_ordering": {
+                "enabled": false,
+                "disabled_reasons": [],
+                "is_orders_enabled": false,
+                "is_logistics_enabled": true,
+                "after_hours_enabled": true,
+                "allow_hybrid_carts": false,
+                "accepting_orders": true,
+                "enabled_for_pickup": false,
+                "enabled_for_delivery": false,
+                "identification_required": true,
+                "display_delivery_details": false,
+                "purchase_min": {
+                    "cents": 0,
+                    "currency": "USD",
+                    "amount": 0.0
+                },
+                "fee": {
+                    "cents": 0,
+                    "currency": "USD",
+                    "amount": 0.0
+                },
+                "standard_eta_min": null,
+                "standard_eta_max": null,
+                "eta_min": 30,
+                "eta_max": 60,
+                "display_eta": false,
+                "wm_service_fee": {
+                    "cents": 0,
+                    "currency": "USD",
+                    "amount": 0.0
+                }
+            },
+            "retailer_services": [
+                "storefront",
+                "pickup"
+            ],
+            "has_curbside_pickup": false,
+            "has_featured_deal": false,
+            "menu_id": 418827025,
+            "email": "info@greenagebcn.es",
+            "phone_number": "+34 932 50 57 69",
+            "country": "ES",
+            "accepts_credit_cards": false,
+            "is_brand_preferred_listing": false,
+            "preferred_organization_position": null,
+            "events_link": null,
+            "registration_link": null,
+            "reservation_link": null,
+            "description": "\u003cp\u003e\u003c/p\u003e\u003cp\u003e \u003c/p\u003e \u003cp\u003e \u003c/p\u003e",
+            "first_time_announcement": "",
+            "available_menu_features": [
+                "static"
+            ],
+            "first_time_announcement_image_url": null,
+            "announcement": "",
+            "announcement_updated_at": "2020-01-07T16:52:06.293Z",
+            "website": "http://greenagebcn.es/",
+            "has_handicap_access": false,
+            "has_photos": false,
+            "has_videos": false,
+            "has_testing": false,
+            "is_recreational": true,
+            "has_atm": false,
+            "has_security_guard": false,
+            "is_verified_seller": false,
+            "has_endorsement_badges": false,
+            "has_lab_measured_items": false,
+            "license_number": "",
+            "licenses": [],
+            "pictures_count": 0,
+            "business_hours": {
+                "sunday": {
+                    "open": "11:00am",
+                    "close": "11:00pm",
+                    "listing_opens_at": "2023-07-02T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-02T23:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "monday": {
+                    "open": "11:00am",
+                    "close": "11:00pm",
+                    "listing_opens_at": "2023-07-03T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-03T23:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "tuesday": {
+                    "open": "11:00am",
+                    "close": "11:00pm",
+                    "listing_opens_at": "2023-07-04T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-04T23:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "wednesday": {
+                    "open": "11:00am",
+                    "close": "11:00pm",
+                    "listing_opens_at": "2023-07-05T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-05T23:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "thursday": {
+                    "open": "11:00am",
+                    "close": "11:00pm",
+                    "listing_opens_at": "2023-07-06T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-06T23:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "friday": {
+                    "open": "11:00am",
+                    "close": "12:00am",
+                    "listing_opens_at": "2023-06-30T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-01T00:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                },
+                "saturday": {
+                    "open": "11:00am",
+                    "close": "12:00am",
+                    "listing_opens_at": "2023-07-01T11:00:00+02:00",
+                    "listing_closes_at": "2023-07-02T00:00:00+02:00",
+                    "order_opens_at": null,
+                    "order_closes_at": null
+                }
+            },
+            "social": {
+                "facebook_id": "",
+                "instagram_id": "",
+                "twitter_id": "",
+                "youtube_ids": []
+            },
+            "region": {
+                "id": 1546,
+                "name": "Barcelona North / Norte",
+                "slug": "north-barcelona",
+                "region_path": "spain/north-barcelona"
+            },
+            "member_since": "2014",
+            "compliance_license_holder": "",
+            "price_aggregations": {},
+            "price_visibility": "visible",
+            "price_visibility_announcement": null,
+            "current_deals_count": 0,
+            "compliance_image_url": null,
+            "desktop_hero_image_url": "https://images.weedmaps.com/static/placeholders/listing_desktop_hero_image_default.png",
+            "mobile_hero_image_url": "https://images.weedmaps.com/static/placeholders/listing_mobile_hero_image_default.png"
+        }
+    }
+}

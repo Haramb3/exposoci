@@ -1,0 +1,794 @@
+[
+    {
+        "name": "the-cut",
+        "coords": [
+            41.381122,
+            2.161843
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "terpy",
+        "coords": [
+            41.38377,
+            2.16527
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "dragon",
+        "coords": [
+            41.39311,
+            2.17152
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "green-age-barcelona",
+        "coords": [
+            41.396838,
+            2.162195
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "medical-green",
+        "coords": [
+            41.397304,
+            2.161695
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "la-creme-gracia",
+        "coords": [
+            41.40065,
+            2.16385
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "smoke-signals-2",
+        "coords": [
+            41.390519,
+            2.173972
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "dispensary-0039",
+        "coords": [
+            41.40154,
+            2.16147
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "asociacion-kyo",
+        "coords": [
+            41.40129,
+            2.17405
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mon-ami",
+        "coords": [
+            41.38992,
+            2.17585
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mono-loco",
+        "coords": [
+            41.39613,
+            2.17817
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "choko-1",
+        "coords": [
+            41.388228,
+            2.17388
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "la-cima",
+        "coords": [
+            41.403354,
+            2.160747
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "wizard-cannabis-club",
+        "coords": [
+            41.38776,
+            2.15874
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "the-zen-club",
+        "coords": [
+            41.389223,
+            2.155871
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "el-jardi-de-graci",
+        "coords": [
+            41.403561,
+            2.155713
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "amnesia-haze-barcelona",
+        "coords": [
+            41.38529,
+            2.15701
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "relax-barcelona-2",
+        "coords": [
+            41.383251,
+            2.1618
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "headbanger",
+        "coords": [
+            41.40661,
+            2.17362
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "dr-dou",
+        "coords": [
+            41.382364,
+            2.169042
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "carme-66-cannabis-club",
+        "coords": [
+            41.380978,
+            2.167979
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "clouds-barcelona",
+        "coords": [
+            41.408276,
+            2.173643
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "gv530-cannabis-club",
+        "coords": [
+            41.382234,
+            2.15932
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "og-barcelona",
+        "coords": [
+            41.394569,
+            2.14816
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "ifrane",
+        "coords": [
+            41.404737,
+            2.152605
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "la-canna-bcn",
+        "coords": [
+            41.409023,
+            2.175221
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "sibaritas-cannabis-club",
+        "coords": [
+            41.403671,
+            2.149519
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "asoc-green-planet-cannabis-club",
+        "coords": [
+            41.3802,
+            2.17629
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "the-green-boutique",
+        "coords": [
+            41.379719,
+            2.158912
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "house-of-terps",
+        "coords": [
+            41.41228,
+            2.16876
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "betty-boop",
+        "coords": [
+            41.394807,
+            2.143696
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "barcelona-coffeeshop",
+        "coords": [
+            41.381765,
+            2.151404
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "cube-barcelona",
+        "coords": [
+            41.407524,
+            2.184466
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "el-chinatown-verde",
+        "coords": [
+            41.408374,
+            2.183483
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "head-bangers-bangers-only",
+        "coords": [
+            41.37935,
+            2.15443
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mr-tau",
+        "coords": [
+            41.38264,
+            2.146912
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "stone-age-bcn",
+        "coords": [
+            41.38502,
+            2.14226
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "herbalist",
+        "coords": [
+            41.381988,
+            2.189733
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "belveda-club",
+        "coords": [
+            41.4160039,
+            2.1758143
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "club-67",
+        "coords": [
+            41.385472,
+            2.139401
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "weedom",
+        "coords": [
+            41.38115,
+            2.14233
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "high-class",
+        "coords": [
+            41.40042,
+            2.19874
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "doctor-resin",
+        "coords": [
+            41.3835132,
+            2.1368933
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "greenardo",
+        "coords": [
+            41.421383,
+            2.17737
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "atlas-fumador-barcelona",
+        "coords": [
+            41.408445,
+            2.203313
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "buda-smoking-club",
+        "coords": [
+            41.42326,
+            2.18174
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "slamdank",
+        "coords": [
+            41.424693,
+            2.176476
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "spiicetherapy",
+        "coords": [
+            41.378222,
+            2.132027
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "bangh-club",
+        "coords": [
+            41.423578,
+            2.148266
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "aniser-1",
+        "coords": [
+            41.3798,
+            2.1255931
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "dona-flor-social-club",
+        "coords": [
+            41.377018,
+            2.125388
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "yellow-dream-barcelona",
+        "coords": [
+            41.37542,
+            2.12439
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "friends-lounge-bcn",
+        "coords": [
+            41.37403,
+            2.123688
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mbc",
+        "coords": [
+            41.41,
+            2.22
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "zona-zero",
+        "coords": [
+            41.441535,
+            2.163251
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "la-bruja-2",
+        "coords": [
+            41.369591,
+            2.107089
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "datura-club",
+        "coords": [
+            41.444871,
+            2.186467
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "2-black",
+        "coords": [
+            41.37453,
+            2.10298
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "the-stash-1",
+        "coords": [
+            41.450941,
+            2.247569
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "bcc-club",
+        "coords": [
+            41.352345,
+            2.07188
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "medical-green-solution",
+        "coords": [
+            41.45017,
+            2.25178
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "hemprat",
+        "coords": [
+            41.328367,
+            2.086033
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mazar-club",
+        "coords": [
+            41.490847,
+            2.148044
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "marleys-dream",
+        "coords": [
+            41.461456,
+            2.267834
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "the-resin-park",
+        "coords": [
+            41.3458415,
+            2.035041
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "mon-cannabic",
+        "coords": [
+            41.521055,
+            2.123075
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "las-tres-brujas",
+        "coords": [
+            41.53209,
+            2.10789
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "the-green-brothers",
+        "coords": [
+            41.535716,
+            2.1028559
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "secret-garden",
+        "coords": [
+            41.53642,
+            2.100421
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "sweed",
+        "coords": [
+            41.269095,
+            2.00184
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "dits-verds",
+        "coords": [
+            41.245127,
+            1.804397
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "cannacat",
+        "coords": [
+            41.341085,
+            1.696407
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "vilaherba",
+        "coords": [
+            41.224794,
+            1.730862
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "associacio-cannabica-greenday",
+        "coords": [
+            41.225384,
+            1.719535
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "christiania-vng",
+        "coords": [
+            41.226107,
+            1.71461
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "artemisa-manresa",
+        "coords": [
+            41.724839,
+            1.820939
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "green-sugar-2-2",
+        "coords": [
+            41.587759,
+            1.616843
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "la-cremme-2",
+        "coords": [
+            41.194977,
+            1.616281
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "happydayscunit",
+        "coords": [
+            41.19434,
+            1.61545
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "secret-society",
+        "coords": [
+            41.702586,
+            2.850883
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "floors",
+        "coords": [
+            41.975322,
+            2.821451
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "asociacion-cannabica-kosy",
+        "coords": [
+            41.143884,
+            1.1056862
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "himalaya-ganjika-1",
+        "coords": [
+            41.962281,
+            3.037498
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "verd-fort",
+        "coords": [
+            41.91872,
+            3.16209
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "calice-club",
+        "coords": [
+            42.229732,
+            2.980803
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "cannamigos-1",
+        "coords": [
+            42.21596,
+            3.01336
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "asociacion-dany",
+        "coords": [
+            42.263174,
+            2.967564
+        ],
+        "category": "weedshop",
+        "weight": 1
+    },
+    {
+        "name": "punto-verde-club",
+        "coords": [
+            42.26587,
+            2.97663
+        ],
+        "category": "weedshop",
+        "weight": 1
+    }
+]
