@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://exposoci.pop.com)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/haramb3/exposoci.svg)](https://github.com/haramb3/exposoci/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haramb3/exposoci.svg)](https://github.com/haramb3/exposoci/pulls)
@@ -45,7 +44,7 @@ To address the problem of finding the ideal living location in Barcelona based o
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
-# Dependencies:
+### Dependencies:
 
 - Data Sources: The effectiveness of the solution relies on the availability and reliability of comprehensive datasets containing information about service locations in Barcelona. Access to up-to-date and accurate data is crucial for accurate proximity analysis and service density mapping.
 
@@ -53,7 +52,7 @@ To address the problem of finding the ideal living location in Barcelona based o
 
 - Data Integration and Management: The solution requires efficient data integration and management processes to collate and combine various datasets effectively. Robust data management practices, including data cleaning, normalization, and storage, are necessary for accurate and reliable results.
 
-# Limitations:
+### Limitations:
 
 - Data Accuracy: The accuracy and completeness of the data directly impact the reliability of the solution. Inaccurate or outdated information about service locations can lead to misleading proximity analysis and inaccurate service density mapping.
 
@@ -122,10 +121,7 @@ Add notes about how to use the system.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Python](https://www.python.org/) - Python3
 
 ## ✍️ Authors <a name = "authors"></a>
 

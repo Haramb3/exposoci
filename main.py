@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 import json
 import time
 import folium  # type: ignore
+import logging
 
 
 class Unique_locations:
@@ -17,6 +18,15 @@ class Unique_locations:
         self.coords = coords
         self.category = category
         self.weight = weight
+
+
+def load_private_locations():
+    if os.path.exists('private_locations.json'):
+        with open('private_locations.json', 'r') as file:
+            json_data = json.loads(file.read())
+        return json_data
+    else:
+        return []
 
 
 def get_weed_locations(locations):
@@ -74,13 +84,13 @@ def export_locations_to_json(new_object, file_path):
 
 
 def main():
-
     if os.path.exists("locations.json"):
         with open("locations.json", 'r') as file:
             locations_list = json.load(file)
-            print(locations_list)
     else:
         locations_list = []
+
+    home_list = load_private_locations()
 
     # LOAD WEED MAPS LOCATIONS
     # get_weed_locations(locations_list)
@@ -92,9 +102,33 @@ def main():
     gdf = ox.graph_to_gdfs(G)
     map = gp.GeoDataFrame(gdf[0])  # type: ignore
     folium_map = map.explore()
+
+    route_list = []
+    for home in home_list:
+        for location in locations_list:
+            try:
+                origin_node = ox.nearest_nodes(
+                    G, home['coords'][1], home['coords'][0])
+                destination_node, dist = ox.nearest_nodes(
+                    G, location['coords'][1], location['coords'][0], return_dist=True)
+                if dist > 100:
+                    continue
+                route = nx.shortest_path(
+                    G, source=origin_node, target=destination_node, weight='length')
+                route_list.append(route)
+            except:
+                logging.warning(f"Target not in G: {location['coords']}")
+        fig, ax = ox.plot_graph_routes(
+            G, route_list)
+    for route in route_list:
+        ox.plot_route_folium(G, route=route, route_map=folium_map,route_linewidth=6, node_size=0, bgcolor='k')
     for location in locations_list:
         marker = folium.Marker(
             location=[location['coords'][0], location['coords'][1]], popup=location['name'], icon=folium.Icon(color='green'))
+        marker.add_to(folium_map)
+    for home in home_list:
+        marker = folium.Marker(
+            location=[home['coords'][0], home['coords'][1]], popup=home['name'], icon=folium.Icon(color='blue'))
         marker.add_to(folium_map)
     folium_map.save('map.html')
 
